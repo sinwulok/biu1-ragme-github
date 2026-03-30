@@ -1,4 +1,4 @@
-# Build a RAG me app for GitHub
+# Build a RAG me for GitHub
 
 ## 專案簡介
 
