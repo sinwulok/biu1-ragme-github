@@ -47,7 +47,7 @@ This is an application based on Retrieval Augmented Generation (RAG), supporting
 ## 專案結構
 
 ```
-xx-Biu-reademe-assis-app/
+biu1-ragme-gh/
 ├── .github/                     # GitHub Actions (CI/CD) 設定
 │   └── workflows/
 │       ├── deploy-react.yml     # 部署 React 前端
